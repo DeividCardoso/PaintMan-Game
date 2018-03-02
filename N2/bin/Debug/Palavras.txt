@@ -1,0 +1,11 @@
+0|Samba|Estilo que toca em carnavais|0
+1|Funk|Estilo que não pode nem ser considerado musica|0
+2|Rock n Roll|Estilo que começou na década de 50|0
+3|Reggae|Estilo que consagrou o mestre Bob Marley|0
+4|Gabriel Jesus|Jovem que começou a carreira profissional no maior time brasileiro|1
+5|Neymar|Craque da seleção brasileira|1
+6|Maradona|Maior que o pelé|1
+7|Santos|Time sem torcida|2
+8|São Paulo|Pequeno time da capital de São Paulo |2
+9|Corinthians|Sua torcida enche a rua da paulista na parada Gay|2
+10|Chevete|teste|3

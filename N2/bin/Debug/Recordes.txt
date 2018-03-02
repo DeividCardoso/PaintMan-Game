@@ -1,0 +1,7 @@
+0|Eduardo|5|1
+1|Rick Martin curtiu|6|8
+2|Elvis Presley|7|2
+3|Pablo Escobar curtiu|10|6
+4|Deivid|18|4
+5|José|19|5
+6|Derp|41|3
